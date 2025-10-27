@@ -2,8 +2,8 @@
 	"name": "spazlint",
 	"description": "spazlint lints jj2+ angelscript code for you",
 	"version": "0.0.1",
-	"publisher": "spazelectro",
-	"repository": "https://github.com/SpazElectro/jazz2",
+	"publisher": "awildergoose",
+	"repository": "https://github.com/awildergoose/jazz2",
 	"engines": {
 		"vscode": "^1.70.0"
 	},

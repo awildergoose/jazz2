@@ -5,7 +5,7 @@ First steps first, let's start by making your development folder, Create a new f
 * Alright, first off, you'll need [Python 3](https://www.python.org) (and a Windows machine to play test), go to the development folder then open the command prompt by clicking on the ***empty*** space at the title bar and typing in `cmd .` and press enter
 ![](images/setup_1.png)
 * Then type in the command prompt: `pip install -r requirements.txt`, and press enter, close the command prompt right after it finishes
-* Clone [this repo](https://github.com/SpazElectro/jazz2), You can clone it by clicking on `Code` and then `Download ZIP`
+* Clone [this repo](https://github.com/awildergoose/jazz2), You can clone it by clicking on `Code` and then `Download ZIP`
 ![](images/setup.png)
 * Open the folder and copy: `create_new.py`,`empty.j2l` and the `scripts` folder and now paste everything into your development folder
 * Create a new file, called: `run.ini`, and make it follow this format, and replace the values with your own, so for my game installation at `F:\Games\Jazz2`, I would have this:
